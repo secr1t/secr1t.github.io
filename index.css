@@ -53,7 +53,7 @@ main {
   align-items: center;
   justify-content: center;
   padding: 2rem;
-  background-color: var(--gray-800);
+  background-color: var(--purple-600);
   margin: auto;
 }
 
