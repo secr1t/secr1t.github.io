@@ -47,15 +47,6 @@
     --card-symbol-color: white;
 }
 
-main {
-  flex: 1;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 2rem;
-  background-color: var(--purple-600);
-  margin: auto;
-}
 
 
 
